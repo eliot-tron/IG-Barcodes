@@ -14,3 +14,5 @@ It is not completed yet.
 2. do a more detailed todo section
 3. do a man or tutorial
 4. comment the code
+
+PS: Bipodes stand for Barcodes Inference with Partial Order anD Exponential Families.

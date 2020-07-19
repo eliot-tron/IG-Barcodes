@@ -13,3 +13,4 @@ It is not completed yet.
 1. finishing the code
 2. do a more detailed todo section
 3. do a man or tutorial
+4. comment the code
